@@ -58,12 +58,12 @@ My unique strength lies in combining in-depth technical skills with the ability 
 
 <img align="left" alt="Axios" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
 
-<br />
+
+<br>
 
 #
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    During the first year of my mathematics degree, I quickly became fascinated by the idea of building mathematical models to represent diverse real-world scenarios. I knew that I needed to improve my coding skills to explore this properly, so I engaged in many modules that offered this - simulating physics, epidemiological outbreaks, and more. These skills landed me an internship at BT Group where I had the chance to put my theoretical knowledge of machine learning into action. Here, I researched the effectiveness of deep autoencoders in detecting malicious network data. After this, in my master's, I took every opportunity I could to continue exploring this avenue of research - from comparing the structure of brain networks using stochastic block models, to ranking coupled climate models using statistical distances. Once I graduated, I was fortunate enough to land a developer role as a scientific officer in the World Meteorological Organization, where I have learnt containerisation, backend development, and frontend design. Who knows what awaits me in the future: I may continue as a full-stack developer, I may return to data science, or perhaps a combination of the two!
-
-[website]: https://www.linkedin.com/in/rptb/
+</details>
