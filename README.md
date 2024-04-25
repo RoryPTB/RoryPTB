@@ -2,7 +2,7 @@
 
 ### ❔ Who I Am
 
-Presently, I am a scientific officer of the WMO Information System (WIS) team at the WMO Secretariat in Geneva, Switzerland. My work is primarily that of a full-stack developer. This work involves creating robust backend solutions for data format conversion, quality control, and downloading, alongside designing user-friendly frontend interfaces for both web and desktop applications.
+Presently, I am a scientific officer of the WMO Information System (WIS) team at the WMO Secretariat in Geneva, Switzerland. My work is primarily that of a full-stack developer contributing to open-source projects. This involves creating robust backend solutions for data format conversion, quality control, and downloading, alongside designing user-friendly frontend interfaces for both web and desktop applications.
 
 Coming from a mathematical background, with a master’s degree from the University of Warwick, I also have a strong interest in academic research - particularly in statistics and machine learning.
 
